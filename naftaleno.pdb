@@ -1,0 +1,38 @@
+REMARK   This PDB file was created by CS Chem3D.
+HETATM    1  C           1     -15.141  -0.426  -1.072                      C 
+HETATM    2  C           1     -15.188  -1.042   0.176                      C 
+HETATM    3  C           1     -14.080  -0.986   1.024                      C 
+HETATM    4  C           1     -12.911  -0.313   0.634                      C 
+HETATM    5  C           1     -12.863   0.313  -0.634                      C 
+HETATM    6  C           1     -13.986   0.247  -1.475                      C 
+HETATM    7  C           1     -11.788  -0.247   1.475                      C 
+HETATM    8  C           1     -10.633   0.426   1.072                      C 
+HETATM    9  C           1     -10.586   1.042  -0.176                      C 
+HETATM   10  C           1     -11.694   0.986  -1.024                      C 
+HETATM   11  H           1     -16.013  -0.470  -1.740                      H 
+HETATM   12  H           1     -16.097  -1.572   0.493                      H 
+HETATM   13  H           1     -14.124  -1.474   2.008                      H 
+HETATM   14  H           1     -13.955   0.731  -2.462                      H 
+HETATM   15  H           1     -11.818  -0.731   2.462                      H 
+HETATM   16  H           1      -9.761   0.470   1.740                      H 
+HETATM   17  H           1      -9.677   1.572  -0.493                      H 
+HETATM   18  H           1     -11.650   1.474  -2.008                      H 
+CONECT    1    2    6   11
+CONECT    2    1    3   12
+CONECT    3    2    4   13
+CONECT    4    3    7    5
+CONECT    5   10    4    6
+CONECT    6    5    1   14
+CONECT    7    4    8   15
+CONECT    8    7    9   16
+CONECT    9    8   10   17
+CONECT   10    9    5   18
+CONECT   11    1
+CONECT   12    2
+CONECT   13    3
+CONECT   14    6
+CONECT   15    7
+CONECT   16    8
+CONECT   17    9
+CONECT   18   10
+END
